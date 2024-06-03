@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    letter-spacing: 1.5px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.icon img {
+    transition: transform .2s;
+}
+
+.icon img:hover {
+    transform: scale(1.09);
+}
