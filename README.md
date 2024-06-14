@@ -3,7 +3,9 @@
 # Welcome to my Bootstrap-powered portfolio where creativity meets functionality! 🚀
 
 # Overview
-This portfolio showcases my journey, skills, and projects in web development, all powered by the sleekness of Bootstrap. Here's what you'll find:
+This portfolio showcases my journey, skills, and projects in web development, all powered by the sleekness of Bootstrap. 
+
+Here's what you'll find:
 
 # Projects: Explore a sleek showcase of my projects.
 Skills: Dive into the art of design with a touch of Bootstrap brilliance.
